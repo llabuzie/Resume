@@ -1,15 +1,18 @@
 My name is Louis F. Labuzienski                            	                                       
 
 My education and honors are:
-Indiana University - Bloomington, IN                                                                                            August 2018 - May 2022
-Luddy School of Informatics, Computing, and Engineering                                                                                   GPA: 3.97
+Indiana University - Bloomington, IN
+August 2018 - May 2022
+Luddy School of Informatics, Computing, and Engineering                               
+GPA: 3.97
 Bachelor of Science in Computer Science: Software Engineering	                                                            
 Minor: Human Centered Computing
 Honors: Founders Scholar, Luddy-Schnabel Scholarship, Hutton Honors College Member, Provost Scholarship, 
 Dean's Advisory Council Scholarship, and Dean's List.
 
 My work experience includes:
-Bowman Creek Educational Ecosystem Design Intern - South Bend, IN                                                     Summer 2019
+Bowman Creek Educational Ecosystem Design Intern - South Bend, IN 
+Summer 2019
   Analyzed qualitative data to create a list of design recommendations for a web-based app that will help people reintegrating into society after prison more easily access social services.
   Conducted and analyzed over 22 interviews with key stakeholders in order to better understand how people access social services.
   Created and manipulated node-edge maps using Kumu and Gephi to visualize how attributes of a user and a social service provider connect.
@@ -44,3 +47,4 @@ Third-year student at Indiana University Bloomington working towards a degree in
 Chief of Staff for Luddy Student Government. As Chief of Staff I help manage the team, work with student organizations, organize events, and send out emails to the student body. 
 Currently working on a project for Bloomington United called CROWN. Community Response On White Nationalism. I'm working with an industry professional in order to design and create a website that is aimed at the Bloomington Community to understand how to help those being targetted by white nationalism and to help those around them. It is an informational resource and it will hopefully be able to be implemented for other cities as well in Indiana and beyond. 
 Currently a part of ServeIT, a program focused on working with non-profits in the Bloomington Community. On a training team focused on design and implementation of a wordpress site. Also get to work with a real client to help redesign their logo. 
+I have volunteered in New Orleans to help with hurricane relief in the Lower Ninth Ward over multiple years. I did work on houses including working on porches, painting, tiling, and drywall installation. 
